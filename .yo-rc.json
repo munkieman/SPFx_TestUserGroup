@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.15.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "test-user-group",
+    "libraryId": "9dcba537-0aa3-43e7-9625-21686c386aab",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Test_User_Group",
+    "solutionShortDescription": "Test_User_Group description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
